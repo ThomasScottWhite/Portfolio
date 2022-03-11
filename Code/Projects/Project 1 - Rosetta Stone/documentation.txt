@@ -1,0 +1,50 @@
+    Step 1: Define The Problem
+    Problem Statement   
+        Due to frequently changing programing languages, I often have to go back to basic language documentation to relearn what x language looks like.
+
+    Constraints
+        Must be completed in a weekend.
+
+    Step 2: Generate Concepts
+        Brainstorm:
+            Programing Language Cheat Sheet:
+                A rosetta stone/cheat sheet of basic definitions for each language, include their use cases as well?
+            Example Projects for each language
+                +Gives valuable experience and more would bea better example of use cases for the languages. -Too time consuming
+    Step 3: Develop Solution
+        Due to time constraints and ease of use the programing cheat sheet is the best solution brainstormed. However the cheat sheet will be a runnable command line file
+        to give examples of basic inputs and functionality similar to Echo OFF
+
+        List of what needs to be included:
+            Variables(int, string,booleans,floats,etc)
+            Math
+            Functions
+            If Statements
+            For Loops
+            While Loops
+            Arrays
+            Classes/Objects
+            Link to good documentations
+            Link to software required.
+
+        Languages to create a example for (Most to Least important)
+            Python
+            C
+            C#
+            C++
+            Lua
+            Java
+            Javascript
+            GD Script
+            Rust (God forbid)
+        
+        Languages that are way too different to include but may be good to create examples later on
+            HTML
+            CSS
+            SQL
+
+    Step 4: Construct and Test Prototype
+        Since python is practically pseudocode, it is the first language I am going to create an example with and base all examples off of.
+        due to length the examples can be found in Resume/Code/Example Code and in Resume/Code/Projects/Project 1 - Rosetta Stone/Example Code
+
+    Step 5: Evaluate Solution

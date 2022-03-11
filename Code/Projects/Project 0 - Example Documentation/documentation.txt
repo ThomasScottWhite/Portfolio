@@ -1,0 +1,19 @@
+    Step 1: Define The Problem
+        Problem Statement
+            x
+        
+        Constraints
+            x
+
+    Step 2: Generate Concepts
+         Brainstorm:
+            x
+                x
+            x
+                x
+
+    Step 3: Develop Solution
+
+    Step 4: Construct and Test Prototype
+
+    Step 5: Evaluate Solution
