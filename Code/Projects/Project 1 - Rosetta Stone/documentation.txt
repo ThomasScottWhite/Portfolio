@@ -24,19 +24,13 @@
             While Loops
             Arrays
             Classes/Objects
-            Link to good documentations
-            Link to software required.
 
         Languages to create a example for (Most to Least important)
             Python
-            C
             C#
             C++
             Lua
-            Java
             Javascript
-            GD Script
-            Rust (God forbid)
         
         Languages that are way too different to include but may be good to create examples later on
             HTML
