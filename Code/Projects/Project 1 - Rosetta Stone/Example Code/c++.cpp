@@ -197,3 +197,6 @@ void objectexample(){
 
     myObj.myMethod();
 }
+
+// Continue From Here
+// https://www.w3schools.com/cpp/cpp_access_specifiers.asp
