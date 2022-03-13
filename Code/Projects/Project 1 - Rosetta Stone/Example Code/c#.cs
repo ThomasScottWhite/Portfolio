@@ -13,7 +13,7 @@ namespace C# { // C# Uses OOP Heavily, a namespace is similar to a library, and 
     class program{
         static void main(){ // main is automatically run when a class is initalized.
 
-            // Console Commands
+            // Command Line Basics
             string userName = Console.ReadLine();           //Gets Input From Console
             Console.WriteLine("Username is: " + userName);  //Prints line to console
 
@@ -28,11 +28,13 @@ namespace C# { // C# Uses OOP Heavily, a namespace is similar to a library, and 
             double myDoubleNum = 5.99D; // 64 bit float
 
             char myLetter = 'D';
-            string myText = "Hello";
+            string myText = "Hello"; 
             
             bool myBool = true;
 
-            #Casting
+
+            const int myNum = 15; // makes the variable unchangeable
+            //Casting
             double myDouble = myInt;       // Automatic Casting
             int myInt = (int) myDouble;    // Manual casting: double to int, otherwise causes error
 
@@ -46,14 +48,15 @@ namespace C# { // C# Uses OOP Heavily, a namespace is similar to a library, and 
             string[,] drinks = {{"jack", "coke"}}; //nested array needs to be of the same type, use dictionaries instead
         }
         static void math(){
-            1+1;
-            1-1;
-            1*2;
-            1^2;
-            1/1;
-            1%2;
-            1++;
-            1--;
+            1+1; // Addition
+            1-1; // Subtraction
+            1*2; // Multiplication
+            1^2; // Powers
+            1/1; // Division
+            1%2; // Remander
+            1++; // Increment
+            1--; // Decrement
+
             // variables can quickly be opperated on by putting an equal sign after the operation symbol, +=, -=, etc
 
             // Logic
@@ -82,11 +85,11 @@ namespace C# { // C# Uses OOP Heavily, a namespace is similar to a library, and 
         }
         static void IfElseAndSwitch(){
 
-            if (condition1)
+            if (true)
             {
             // block of code to be executed if condition1 is True
             } 
-            else if (condition2) 
+            else if (true) 
             {
             // block of code to be executed if the condition1 is false and condition2 is True
             } 
@@ -170,6 +173,9 @@ namespace C# { // C# Uses OOP Heavily, a namespace is similar to a library, and 
         }
 
     }
+    // Access Specifiers
+    // public - members are accessable outside of the class
+    // private - members are not accessa
     // Enums is a special class that represents a bunch of constant variables
     enum Months
     {

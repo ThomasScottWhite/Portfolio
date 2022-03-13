@@ -26,16 +26,17 @@
             Classes/Objects
 
         Languages to create a example for (Most to Least important)
-            Python
-            C#
+            Python, Done
+            C#, Done
             C++
-            Lua
             Javascript
+            Lua // Skip?
         
         Languages that are way too different to include but may be good to create examples later on
             HTML
             CSS
             SQL
+            // Maybe include Javascript here as it is web based
 
     Step 4: Construct and Test Prototype
         Since python is practically pseudocode, it is the first language I am going to create an example with and base all examples off of.
