@@ -1,0 +1,8 @@
+Things To Do: (Highest priority to least)
+
+Portfolio Website Expermentation
+Finish Tetris Expermentation
+
+Start another project, https://github.com/tastejs/awesome-app-ideas
+- VST Plugin
+- Javascript Game
