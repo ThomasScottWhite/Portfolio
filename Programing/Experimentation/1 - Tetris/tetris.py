@@ -1,12 +1,16 @@
+import os
+import time
+from tkinter import *
+from tkinter import ttk
+
+#Variables
 xLength = 10
 yLength = 20
 grid = []
-import os
-import time
 clear = lambda: os.system('cls') #Magic that clears the console screen called by using clear()
 
 def Tetris():
-    Clear()
+    ClearGrid()
     for i in range(0,xLength):
         grid[19][i] = 1
     
@@ -18,7 +22,7 @@ def Tetris():
 # ####
 #   #
 #  ###
-def Clear():
+def ClearGrid():
     for i in range(0,yLength):
         grid.append([])
         for k in range(0,xLength):
